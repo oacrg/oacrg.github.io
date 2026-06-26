@@ -1,0 +1,6 @@
+{
+  "name": "Lightfall Visualizer",
+  "description": "An interactive, high-fidelity visualization sandbox for the GPU-accelerated Lightfall component.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

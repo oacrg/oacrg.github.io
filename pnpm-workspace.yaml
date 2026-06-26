@@ -1,0 +1,14 @@
+packages:
+  - '.'
+
+allowBuilds:
+  '@google/genai': false
+  esbuild: false
+  protobufjs: false
+
+minimumReleaseAge: 0
+
+onlyBuiltDependencies:
+  - '@google/genai'
+  - 'esbuild'
+  - 'protobufjs'
